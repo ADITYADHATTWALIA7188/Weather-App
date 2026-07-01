@@ -43,7 +43,7 @@ Weather-App/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+https://github.com/ADITYADHATTWALIA7188/Weather-App.git
 ```
 
 2. Open the project folder.
@@ -72,12 +72,12 @@ https://www.weatherapi.com/
 
 ## 📸 Screenshot
 
-(Add your project screenshot here)
 
 Example:
 
 ```
-screenshots/weather-app.png
+<img width="565" height="530" alt="SS" src="https://github.com/user-attachments/assets/2909d59a-c3ea-4053-ab99-a2f5596249c6" />
+
 ```
 
 ---
