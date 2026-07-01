@@ -98,7 +98,7 @@ Example:
 **Aditya Dhattwalia**
 
 GitHub:
-https://github.com/your-github-username
+https://github.com/adityadhattwalia7188
 
 LinkedIn:
 www.linkedin.com/in/adityadhattwalia10042006
