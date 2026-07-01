@@ -73,12 +73,8 @@ https://www.weatherapi.com/
 ## 📸 Screenshot
 
 
-Example:
+<img width="565" height="530" alt="SS" src="https://github.com/user-attachments/assets/dc6ac153-9d0e-4c20-a716-c148b83d5a14" />
 
-```
-<img width="565" height="530" alt="SS" src="https://github.com/user-attachments/assets/2909d59a-c3ea-4053-ab99-a2f5596249c6" />
-
-```
 
 ---
 
