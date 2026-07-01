@@ -66,7 +66,7 @@ https://api.weatherapi.com/v1/current.json
 
 Official Website:
 
-https://www.weatherapi.com/
+https://adityadhattwalia7188.github.io/Weather-App/
 
 ---
 
